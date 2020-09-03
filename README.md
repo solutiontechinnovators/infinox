@@ -1,2 +1,2 @@
 # infinox
-containing our personal codes
+Projects on Research and Innovation
